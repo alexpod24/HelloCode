@@ -1,0 +1,15 @@
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\bin\Debug\net7.0\Exemples001_helooconsole.exe
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\bin\Debug\net7.0\Exemples001_helooconsole.deps.json
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\bin\Debug\net7.0\Exemples001_helooconsole.runtimeconfig.json
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\bin\Debug\net7.0\Exemples001_helooconsole.dll
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\bin\Debug\net7.0\Exemples001_helooconsole.pdb
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\obj\Debug\net7.0\Exemples001_helooconsole.csproj.AssemblyReference.cache
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\obj\Debug\net7.0\Exemples001_helooconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\obj\Debug\net7.0\Exemples001_helooconsole.AssemblyInfoInputs.cache
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\obj\Debug\net7.0\Exemples001_helooconsole.AssemblyInfo.cs
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\obj\Debug\net7.0\Exemples001_helooconsole.csproj.CoreCompileInputs.cache
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\obj\Debug\net7.0\Exemples001_helooconsole.dll
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\obj\Debug\net7.0\refint\Exemples001_helooconsole.dll
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\obj\Debug\net7.0\Exemples001_helooconsole.pdb
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\obj\Debug\net7.0\Exemples001_helooconsole.genruntimeconfig.cache
+C:\Users\alexp\Desktop\Exemples\Exemples001_helooconsole\obj\Debug\net7.0\ref\Exemples001_helooconsole.dll
